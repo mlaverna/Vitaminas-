@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: vitaminas-fruta
+  host: vitaminas-fruta
+  disk_quota: 256M
